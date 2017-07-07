@@ -1,0 +1,24 @@
+.card .card-content{
+  color: #1E1E1E;
+  font-size: 20px;
+}
+
+.card .card-title {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.card .card-content .card-title {
+    color: #0D8080 !important;
+}
+
+.card-info {
+    color: #3299BB !important;
+    vertical-align: middle;
+    line-height: 2;
+    font-size: 1rem;
+}
+.material-icons{
+	vertical-align: middle
+	
+}
